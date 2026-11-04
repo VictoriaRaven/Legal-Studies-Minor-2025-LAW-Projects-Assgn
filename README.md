@@ -64,7 +64,10 @@ These references are provided for educational and research purposes. Secondary s
 27. Columbia Univ. Sch. of Law, Organizing a Legal Discussion: IRAC / CRAC / CREAC (2022), [https://www.law.columbia.edu/sites/default/files/2022-06/WC%20Handout%20IRAC%2C%20CRAC%2C%20CREAC.revised%205.22.pdf](<https://www.law.columbia.edu/sites/default/files/2022-06/WC%20Handout%20IRAC%2C%20CRAC%2C%20CREAC.revised%205.22.pdf?utm_source=chatgpt.com>).
 ### 5. Online educational resources and professional development
 28. Coursera, AI Fundamentals: Search Results, [https://www.coursera.org/search?query=ai%20fundamentals](<https://www.coursera.org/search?query=ai+fundamentals&utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
-29. IBM & Coursera, IBM z/OS Mainframe Practitioner Professional Certificate, [https://www.coursera.org/professional-certificates/ibm-z-mainframe](<https://www.coursera.org/professional-certificates/ibm-z-mainframe?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+Both belong in a new section titled Torts Law and Casebook Materials because they are substantive tort law study materials, rather than general legal research or citation guides.
+### 6. Torts Law and Casebook Materials
+29. Eric E. Johnson, Torts: Cases and Context, Volume 1 (2015), CALI eLangdell Press, [https://www.cali.org/sites/default/files/Dec212015FINAL\_Johnson\_Torts\_Cases\_and\_Context\_Volume\_1.pdf](<https://www.cali.org/sites/default/files/Dec212015FINAL_Johnson_Torts_Cases_and_Context_Volume_1.pdf?utm_source=chatgpt.com>).
+30. Univ. of Baltimore Sch. of Law, Torts First Week Assignment (Spring 2014), [https://law.ubalt.edu/faculty/Torts\_FstWkAsS14\_Shafer.pdf](<https://law.ubalt.edu/faculty/Torts_FstWkAsS14_Shafer.pdf?utm_source=chatgpt.com>).
 
 ### Contact
 
