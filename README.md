@@ -11,6 +11,61 @@ Links:
 
 Legal-Studies-Projects-And-Assignments: LGST; BGMT; COMM; Other
 
+## References, Research Resources Overview, Citations (BOOKMARKS FOR UMGC LEGAL STUDIES)
+
+This document contains the legal research materials, judicial resources, legal writing guides, citation references, and educational resources consulted during this project. The sources are organized by subject matter to facilitate navigation and further research. Citation Format: References are formatted generally according to *The Bluebook: A Uniform System of Citation*. Online sources include hyperlinks for accessibility and verification.
+
+### Research Categories
+- Legal Research Databases and Research Resources
+- Court Systems and Judicial Authority
+- Bluebook Citation and Legal Citation Guides
+- Legal Writing, IRAC, and Legal Analysis
+- Online Educational Resources and Professional Development
+
+### Disclaimer
+These references are provided for educational and research purposes. Secondary sources and informational websites should not be treated as binding legal authority. Always verify legal authorities against official publications and applicable citation rules.
+- Websites without identifiable publication dates are cited with `n.d.` (no date).
+- Government agencies and universities are used as institutional authors when appropriate.
+- PDF handouts and reports are cited as online documents.
+- Duplicate URLs pointing to the same resource are consolidated where possible.
+- These are citations to research materials, not citations to legal authority. Secondary sources should not be represented as binding law.
+
+## Bluebook bibliography
+### 1. Legal research databases and research resources
+1. Thomson Reuters, Westlaw, [https://1.next.westlaw.com/Search/Home.html?transitionType=Default&contextData=(sc.Default)&bhcp=1&CobaltRefresh=66965](<https://1.next.westlaw.com/Search/Home.html?transitionType=Default&contextData=%28sc.Default%29&bhcp=1&CobaltRefresh=66965&utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+2. Ctr. for Computer-Assisted Legal Instruction (CALI), CALI, [https://www.cali.org/](<https://www.cali.org/?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+3. Peter Jan Honigsberg, Learning Legal Analysis Through Its Components: Issue, Rule, Application, Conclusion—IRAC, CALI, Lesson LWR02, [https://www.cali.org/lesson/562](<https://www.cali.org/lesson/562?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+4. Chapman Univ. Sch. of Law Libr., Legal Research Basics: Primary Law—Mandatory v. Persuasive Authority, [https://libguides.law.chapman.edu/legalresearchbasics/authority](<https://libguides.law.chapman.edu/legalresearchbasics/authority?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+5. Chapman Univ. Sch. of Law Libr., Legal Research Basics: Primary Law—Mandatory v. Persuasive Authority, [https://libguides.law.chapman.edu/legalresearchbasics/authority#s-lg-box-15492908](<https://libguides.law.chapman.edu/legalresearchbasics/authority?utm_source=chatgpt.com#s-lg-box-15492908>) (last visited Nov. 4, 2026).
+6. UCLA Sch. of Law, Hugh & Hazel Darling Law Libr., Legal Research: An Overview—Mandatory v. Persuasive Authority, [https://libguides.law.ucla.edu/c.php?g=686105&p=5160745](<https://libguides.law.ucla.edu/c.php?g=686105&p=5160745&utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+7. The Legal Duchess, Tips for Legal Research and Writing (Feb. 2019), [http://www.thelegalduchess.com/2019/02/tips-for-legal-research-and-writing.html](<http://www.thelegalduchess.com/2019/02/tips-for-legal-research-and-writing.html?utm_source=chatgpt.com>).
+8. American Ass'n of Law Librarians, Introductory Legal Research—Final Quiz \[PDF\], [https://www.aallnet.org/ripssis/wp-content/uploads/sites/15/2018/06/S-Condit-Final-Quiz-Intro-Legal-Research-1L.pdf](<https://www.aallnet.org/ripssis/wp-content/uploads/sites/15/2018/06/S-Condit-Final-Quiz-Intro-Legal-Research-1L.pdf?utm_source=chatgpt.com>).
+### 2. Court systems and judicial authority
+9. Judicial Council of California, California Courts, [https://www.courts.ca.gov/courts.htm](<https://www.courts.ca.gov/courts.htm?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+10. Judicial Council of California, Opinions, [https://www.courts.ca.gov/opinions.htm](<https://www.courts.ca.gov/opinions.htm?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+11. The Writing Center at Georgetown Univ. Law Ctr., Which Court Is Binding? Mandatory v. Persuasive Cases (2004), [https://www.law.uga.edu/sites/default/files/uploaded-files/Clutter%20WHICH\_COURT\_IS\_BINDING\_Painter-and-Mayer-FINAL.pdf](<https://www.law.uga.edu/sites/default/files/uploaded-files/Clutter%20WHICH_COURT_IS_BINDING_Painter-and-Mayer-FINAL.pdf?utm_source=chatgpt.com>).
+12. Diffen, Circuit Court v. District Court, [https://www.diffen.com/difference/Circuit\_Court\_vs\_District\_Court](<https://www.diffen.com/difference/Circuit_Court_vs_District_Court?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+13. Judicial Council of California, [California Courts Resource Page](<https://www.courts.ca.gov/998.htm?rdeLocaleAttr=en&utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+14. Administrative Office of the U.S. Courts, Comparing Federal & State Courts, [https://www.uscourts.gov/about-federal-courts/court-role-and-structure/comparing-federal-state-courts](<https://www.uscourts.gov/about-federal-courts/court-role-and-structure/comparing-federal-state-courts?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+15. Maryland Judiciary, Maryland's Judicial System \[PDF\], [https://www.courts.state.md.us/sites/default/files/import/publications/pdfs/mdjudicialsystem.pdf](<https://www.courts.state.md.us/sites/default/files/import/publications/pdfs/mdjudicialsystem.pdf?utm_source=chatgpt.com>).
+16. Cong. Rsch. Serv., Report No. R45323, [https://crsreports.congress.gov/product/pdf/R/R45323](<https://crsreports.congress.gov/product/pdf/R/R45323?utm_source=chatgpt.com>).
+17. Montgomery County, Maryland, 311 Solutions, [https://www3.montgomerycountymd.gov/311/Solutions.aspx?SolutionId=1-3FREKZ&AspxAutoDetectCookieSupport=1](<https://www3.montgomerycountymd.gov/311/Solutions.aspx?SolutionId=1-3FREKZ&AspxAutoDetectCookieSupport=1&utm_source=chatgpt.com>).
+18. Law Stack Exchange, Can a Previously Binding Precedent Be Overturned Based on Its Rationale Being Outdated?, [https://law.stackexchange.com/questions/93568/can-a-previously-binding-precedent-be-overturned-based-on-its-rationale-being-ou](<https://law.stackexchange.com/questions/93568/can-a-previously-binding-precedent-be-overturned-based-on-its-rationale-being-ou?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+### 3. Bluebook citation and legal citation guides
+19. Univ. of Maryland Global Campus, LGST Quick Citation Guide (Mar. 24, 2023), [https://leocontent.umgc.edu/content/dam/course-content/tus/lgst/lgst-200/document/LGSTQuickCitationGuide\_Sp23\_Final.pdf](<https://leocontent.umgc.edu/content/dam/course-content/tus/lgst/lgst-200/document/LGSTQuickCitationGuide_Sp23_Final.pdf?utm_source=chatgpt.com>).
+20. Public.Resource.Org, Inc., The Indigo Book: A Manual of Legal Citation (May 2, 2016), [https://law.resource.org/pub/us/code/blue/IndigoBook.html](<https://law.resource.org/pub/us/code/blue/IndigoBook.html?utm_source=chatgpt.com>).
+21. Harvard Univ. Libr., Bluebook Legal Citation System Guide: Getting Started, [https://guides.library.harvard.edu/law/bluebook#s-lg-page-section-10091283](<https://guides.library.harvard.edu/law/bluebook?utm_source=chatgpt.com#s-lg-page-section-10091283>) (last visited Nov. 4, 2026).
+22. The Bluebook: A Uniform System of Citation r. 10 (Columbia L. Rev. Ass'n et al. eds., 21st ed. 2020), [https://www.legalbluebook.com/bluebook/v21/rules/10-cases](<https://www.legalbluebook.com/bluebook/v21/rules/10-cases?utm_source=chatgpt.com>).
+23. William S. Richardson Sch. of Law Libr., Univ. of Hawaiʻi at Mānoa, Bluebook Citations: Cases, [https://law-hawaii.libguides.com/bluebook/cases](<https://law-hawaii.libguides.com/bluebook/cases?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+24. Florida A&M Univ. Libraries, Bluebook Citation: Secondary Sources, [https://library.famu.edu/c.php?g=276158&p=1841833](<https://library.famu.edu/c.php?g=276158&p=1841833&utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+### 4. Legal writing, IRAC, and legal analysis
+25. Mark Sarkisian, Peter Lee & Rupa Garai, San Diego Central Courthouse, STRUCTURE Mag. (June 2019), [https://www.structuremag.org/?p=14625](<https://www.structuremag.org/?p=14625&utm_source=chatgpt.com>).
+26. Touro Univ. Jacob D. Fuchsberg Law Ctr., IRAC, [https://www.tourolaw.edu/adp/studyskills/irac.aspx](<https://www.tourolaw.edu/adp/studyskills/irac.aspx?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+27. Columbia Univ. Sch. of Law, Organizing a Legal Discussion: IRAC / CRAC / CREAC (2022), [https://www.law.columbia.edu/sites/default/files/2022-06/WC%20Handout%20IRAC%2C%20CRAC%2C%20CREAC.revised%205.22.pdf](<https://www.law.columbia.edu/sites/default/files/2022-06/WC%20Handout%20IRAC%2C%20CRAC%2C%20CREAC.revised%205.22.pdf?utm_source=chatgpt.com>).
+### 5. Online educational resources and professional development
+28. Coursera, AI Fundamentals: Search Results, [https://www.coursera.org/search?query=ai%20fundamentals](<https://www.coursera.org/search?query=ai+fundamentals&utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+29. IBM & Coursera, IBM z/OS Mainframe Practitioner Professional Certificate, [https://www.coursera.org/professional-certificates/ibm-z-mainframe](<https://www.coursera.org/professional-certificates/ibm-z-mainframe?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+
 ### Contact
 
 Feel free to pm me (VictoriaRaven) if you want to use my code under a specific license and without needing to fork my repository.
