@@ -68,6 +68,11 @@ Both belong in a new section titled Torts Law and Casebook Materials because the
 ### 6. Torts Law and Casebook Materials
 29. Eric E. Johnson, Torts: Cases and Context, Volume 1 (2015), CALI eLangdell Press, [https://www.cali.org/sites/default/files/Dec212015FINAL\_Johnson\_Torts\_Cases\_and\_Context\_Volume\_1.pdf](<https://www.cali.org/sites/default/files/Dec212015FINAL_Johnson_Torts_Cases_and_Context_Volume_1.pdf?utm_source=chatgpt.com>).
 30. Univ. of Baltimore Sch. of Law, Torts First Week Assignment (Spring 2014), [https://law.ubalt.edu/faculty/Torts\_FstWkAsS14\_Shafer.pdf](<https://law.ubalt.edu/faculty/Torts_FstWkAsS14_Shafer.pdf?utm_source=chatgpt.com>).
+### 7. Technical Writing, Document Formatting, and Data Management
+31. BCcampus, 3.3 Lists, in Technical Writing Essentials, [https://pressbooks.bccampus.ca/technicalwriting/chapter/lists/](<https://pressbooks.bccampus.ca/technicalwriting/chapter/lists/?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+32. Microsoft Support, Opening CSV UTF-8 Files Correctly in Excel, [https://support.microsoft.com/en-us/office/opening-csv-utf-8-files-correctly-in-excel-8a935af5-3416-4edd-ba7e-3dfd2bc4a032](<https://support.microsoft.com/en-us/office/opening-csv-utf-8-files-correctly-in-excel-8a935af5-3416-4edd-ba7e-3dfd2bc4a032?utm_source=chatgpt.com>) (last visited Nov. 4, 2026).
+
+
 
 ### Contact
 
