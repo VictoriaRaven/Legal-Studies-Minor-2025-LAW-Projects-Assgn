@@ -1,7 +1,7 @@
 # Legal-Studies-Projects-Assgn
 ## Copyright Usage and License
 
-Regarding Copyright laws by GitHub it states that a public repository without a license means that if you want to use my code you must fork my repository as I retain all proprietary rights.
+Regarding Copyright laws on GitHub, it states that a public repository without a license means that if you want to use my code, you must fork my repository, as I retain all proprietary rights.
 
 Links:  
 - [GitHub Copyright and Licenses](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
@@ -10,7 +10,7 @@ Links:
 ## Information
 Legal-Studies-Projects-And-Assignments: LGST; BGMT; COMM; Other.
 - You can also find my Technical writing projects repository here: [UMGC Technical Writing and PACE](https://github.com/VictoriaRaven/Technical-Writing-Advanced-Projects)
-- You can also find my NASA NCAS related to My Community college and how it also correlates to government. My repo is here: [VictoriaRaven's NASA NCAS Experience Community College 2023](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
+- You can also find my NASA NCAS related to My Community college and how it also correlates to government. My repo is here: [VictoriaRaven's NASA NCAS Experience Community College 2022](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
 ### ALL Legal Studies Projects and Assignments
 **Related Coursework:** AND OTHER related subjects.
 - **LGST 200** – Techniques of Legal Research
@@ -75,14 +75,10 @@ This repository brings together several areas of my academic development:
 
 ## Academic Integrity
 
-All uploaded assignments are my own coursework and individual submissions.
-
-- No answer keys are included.
+All uploaded assignments are my own coursework and individual submissions. Materials are shared for educational reference, resumes, jobs, and to document my academic development while respecting UMGC's academic integrity standards.
+- No answer keys are included, and most 88-100% are written in my own words, with no answer key.
 - No instructor-provided solutions are uploaded.
 - All submissions represent my individual academic work.
-
-Materials are shared for educational reference and to document my academic development while respecting UMGC's academic integrity standards.
-
 
 
 ## References, Research Resources Overview, Citations (BOOKMARKS FOR UMGC LEGAL STUDIES)
