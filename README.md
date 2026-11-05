@@ -8,7 +8,8 @@ Links:
 - [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
 
 ## Information
-Legal-Studies-Projects-And-Assignments: LGST; BGMT; COMM; Other
+Legal-Studies-Projects-And-Assignments: LGST; BGMT; COMM; Other.
+- You can also find my Technical writing projects repository here: [UMGC Technical Writing and PACE](https://github.com/VictoriaRaven/Technical-Writing-Advanced-Projects)
 ### ALL Legal Studies Projects and Assignments
 **Related Coursework:** AND OTHER related subjects.
 - **LGST 200** – Techniques of Legal Research
