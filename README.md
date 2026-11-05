@@ -8,8 +8,80 @@ Links:
 - [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
 
 ## Information
-
 Legal-Studies-Projects-And-Assignments: LGST; BGMT; COMM; Other
+### ALL Legal Studies Projects and Assignments
+**Related Coursework:** AND OTHER related subjects.
+- **LGST 200** – Techniques of Legal Research
+- **LGST 201** – Legal Writing
+- **LGST 312** – Torts
+- **BMGT 380** – Business Law I
+- **BMGT 381** – Business Law II
+- **COMM 400** – Mass Media Law
+- **Introduction to Criminal Justice** – Community College Coursework  (IGETC Certificate completion for State of CA, USA)
+- **Fundamentals of Criminal Justice** – Community College Coursework (IGETC Certificate completion for State of CA, USA)
+## Overview
+
+This repository contains legal research, academic writing, case studies, and applied legal coursework connected to my **Business Law minor within my Bachelor of Science degree**.
+
+The collection builds upon my previous community college coursework in Introduction to Criminal Justice and Fundamentals of Criminal Justice, connecting foundational criminal justice concepts with legal research, business law, and the practical application of statutes, regulations, and court decisions.
+
+## Areas of Study
+
+- **Legal Research & Writing:** Legal research methods, case law analysis, statutory interpretation, legal memorandums, citations, and professional legal writing.
+- **Business & Commercial Law:** Contracts, business organizations, commercial transactions, liability, financial regulations, and corporate responsibilities.
+- **Criminal Justice:** Criminal law, criminal procedures, civil and criminal disputes, judicial processes, and constitutional protections.
+- **Torts & Civil Liability:** Negligence, intentional torts, strict liability, damages, personal injury, and civil litigation, including topics overlapping with LGST 312.
+- **Finance & Regulatory Law:** Financial institutions, secured transactions, bankruptcy, creditor rights, and regulatory compliance.
+- **Intellectual Property:** Patents, trademarks, copyrights, licensing, ownership rights, and research involving the United States Patent and Trademark Office (USPTO).
+- **Communications & Media Law:** Freedom of speech, press protections, defamation, privacy, intellectual property, and media regulations.
+
+## Court Systems & Jurisdictional Comparisons
+
+An important component of this collection is understanding how different courts operate and how legal proceedings vary depending on jurisdiction and subject matter.
+
+Topics include:
+
+- Federal and state court systems.
+- Trial courts and courts of original jurisdiction.
+- Intermediate appellate courts.
+- State supreme courts and courts of last resort.
+- Federal district courts, circuit courts of appeals, and the U.S. Supreme Court.
+- Civil versus criminal jurisdiction.
+- Subject-matter jurisdiction and personal jurisdiction.
+- Appeals, judicial review, and legal precedent.
+
+### Maryland & California Legal Comparisons
+
+Maryland serves as a primary state-law reference point throughout the coursework. Legal principles and court structures are also compared with California law to examine differences in:
+
+- State statutes and regulations.
+- Court organization and jurisdiction.
+- Civil and criminal procedures.
+- Trial and appellate court systems.
+- Judicial decisions and legal precedent.
+
+This comparative approach demonstrates how states operate within the same federal constitutional framework while maintaining distinct laws, court structures, and legal procedures.
+
+## Academic Connections
+
+This repository brings together several areas of my academic development:
+
+- **Bachelor of Science – Business Law Minor:** Business regulations, contracts, commercial law, and legal applications in professional environments.
+- **Community College Coursework:** Introduction to Criminal Justice and Fundamentals of Criminal Justice.
+- **UMGC Legal Studies:** Legal research, legal writing, torts, and applied legal analysis.
+- **Business and Communications:** The relationship between law, finance, corporate operations, media, and professional communication.
+
+## Academic Integrity
+
+All uploaded assignments are my own coursework and individual submissions.
+
+- No answer keys are included.
+- No instructor-provided solutions are uploaded.
+- All submissions represent my individual academic work.
+
+Materials are shared for educational reference and to document my academic development while respecting UMGC's academic integrity standards.
+
+
 
 ## References, Research Resources Overview, Citations (BOOKMARKS FOR UMGC LEGAL STUDIES)
 
