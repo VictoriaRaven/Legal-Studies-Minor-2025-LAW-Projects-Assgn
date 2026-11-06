@@ -9,6 +9,7 @@ Links:
 
 ## Information
 Legal-Studies-Projects-And-Assignments: LGST; BGMT; COMM; Other.
+- Note: As of 11/05/2026 I needed to save space on Drive(s) so I uploaded main files here and removed the ones that have answer key. If you ask me where it is I do not have it as I deleted it and kept only the ones without key and also use my own words for academic integrity. The concepts remain the same and I have uploaded the ones not repeating concepts.
 - You can also find my Technical writing projects repository here: [UMGC Technical Writing and PACE](https://github.com/VictoriaRaven/Technical-Writing-Advanced-Projects)
 - You can also find my NASA NCAS related to My Community college and how it also correlates to government. My repo is here: [VictoriaRaven's NASA NCAS Experience Community College 2022](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
 ### ALL Legal Studies Projects and Assignments
