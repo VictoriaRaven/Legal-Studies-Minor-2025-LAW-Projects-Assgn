@@ -14,13 +14,12 @@ Legal-Studies-Projects-And-Assignments: LGST; BGMT; COMM; Other.
 - You can also find my NASA NCAS related to My Community college and how it also correlates to government. My repo is here: [VictoriaRaven's NASA NCAS Experience Community College 2022](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
 - While doing Law minor, I did some Legal Studies IRAC Python Application from scratch: [VictoriaRaven's Legal Studies IRAC Python App](https://github.com/VictoriaRaven/Legal-Studies-IRAC-Python-Generator)
 
-## Independent Study & Professional Development
-In addition to my formal academic coursework in Business Law, Legal Studies, Criminal Justice, and related law enforcement and intelligence subjects, I independently pursue supplemental educational opportunities to broaden my knowledge of other disciplines: counterintelligence, cybersecurity awareness, information security, national security, and government security practices. I utilize publicly accessible educational resources provided by the Defense Counterintelligence and Security Agency (DCSA).
+### Independent Study & Professional Development
+In addition to my formal academic coursework, I use publicly accessible educational resources provided by the Defense Counterintelligence and Security Agency (DCSA) to pursue supplemental educational opportunities and broaden my knowledge of other disciplines, including counterintelligence, cybersecurity awareness, information security, national security, and government security practices.
 - **[VictoriaRaven's CDSE-Security-Awareness-Hub Study](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main/CDSE-Security-Awareness-Hub)**
     – Supplemental independent learning documenting my educational interests, objectives, and DCSA Security Awareness Hub courses.
 - **Primary Educational Resource:** [DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
     – This independent study is intended to complement my existing education, demonstrate initiative and continuous learning, and strengthen my interdisciplinary knowledge in preparation for potential public-sector employment opportunities.
-
 - *Note: This is supplemental independent study and does not represent a formal degree, professional certification, security clearance, or examination-based course completion.*
 
 ### ALL Legal Studies Projects and Assignments
