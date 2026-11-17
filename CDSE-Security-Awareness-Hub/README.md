@@ -17,7 +17,7 @@ By independently studying these subjects, I aim to:
 - Understand Insider Threat Awareness and Operations Security (OPSEC) principles.
 - Connect legal frameworks, criminal justice, law enforcement, intelligence, and government security practices.
 - Strengthen my interdisciplinary knowledge and technical literacy beyond my formal academic background.
-- **However: I do not take the STEPP as I am a civilian, not a government entity/affiliated for now due to job applications... I will upload the certificate if completed for the online course if allowed, but not the exam.**
+- **However: I do not take the STEPP as I am a civilian, not a government entity/affiliated for now due to job applications... I will upload the certificate if I complete the online course, if allowed, but not the exam.**
 
 ## Defense Counterintelligence and Security Agency (DCSA) GOV Resources
 **Primary Resource:** [DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
@@ -32,14 +32,19 @@ The resources I am exploring include:
 - [DCSA Security Awareness Hub – Main Course Directory](https://securityawareness.dcsa.mil/index.html)
 - [Center for Development of Security Excellence (CDSE)](https://www.cdse.edu/)
 
-### Counterintelligence Course Sections I Will Complete:
-1. **[Counterintelligence Awareness and Reporting for DOD](https://securityawareness.dcsa.mil/cidod/index.html)**
-2. **[Counterintelligence Awareness and Security Brief](https://securityawareness.dcsa.mil/ci-security-brief/index.html)**
-3. **[Foreign Government Employment (FGE) Awareness Training](https://securityawareness.dcsa.mil/fge-awareness/index.html)**
-4. **[Protecting Assets in the NISP](https://securityawareness.dcsa.mil/protecting/index.html)**
-5. **[Thwarting the Enemy: Providing Counterintelligence and Threat Awareness to the Defense Industrial Base](https://securityawareness.dcsa.mil/thwarting/index.htm)**
-6. **Primary Resource:** [DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
+### Course Sections I Will Complete:
+These focus on transferable knowledge in counterintelligence, cybersecurity, insider threats, and protecting sensitive information rather than DOD-specific administrative training, as I am a civilian and using this to gain knowledge when applying to public sector jobs and combine past college/univeristy coursers realted to law enforcement, criminal justice, psychology, law, legal studies, it/cybersecuirty, and forensics. In order, based on the courses listed on the main pages and the sections previously... [DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)...
+- **NOTICE:** Super Intelligence (SI)/AI/LLM was used to *help me narrow the main courses to the specific agencies/public sectors* I am applying to, so I can combine my studies and new knowledge without repetition and also unnecessary DOD content that is unrelated to me, as I am a civilian applicant. Obviously, Integrity is key, and NO ACADEMIC VIOLATIONS were used to apply SI to "Cheat," and I, Victoria Lee, vow to uphold that promise and ONLY use the resources provided in the course to figure out my mistakes based on my score and to help me pass. SI was used to lay out the main courses and to help me include them in my portfolio GitHub without Breaching GOV ENTITY's copyright and intellectual property.
 
+1. [Counterintelligence Awareness and Reporting for DOD](https://securityawareness.dcsa.mil/cidod/index.html)
+2. [Counterintelligence Awareness and Security Brief](https://securityawareness.dcsa.mil/ci-security-brief/index.html)
+3. [Cybersecurity Awareness](https://securityawareness.dcsa.mil/cybersecurity/index.htm)
+4. [Introduction to the Risk Management Framework (RMF)](https://securityawareness.dcsa.mil/rmf/index.htm)
+5. [Identifying and Safeguarding Personally Identifiable Information (PII)](https://securityawareness.dcsa.mil/piiv2/index.htm)
+6. [Unauthorized Disclosure of Classified Information and Controlled Unclassified Information](https://securityawareness.dcsa.mil/disclosure/index.html)
+7. [Insider Threat Awareness](https://securityawareness.dcsa.mil/itawareness/index.htm)
+8. [OPSEC Awareness for Military Members, DOD Employees and Contractors](https://securityawareness.dcsa.mil/opsec/index.htm)
+- Note: I did not take all other courses, as they are related to current government employees; they are repetitive of the main courses that teach it in more detail, and I also chose the courses most relevant to my studies so far with my B.S., M.S., and certificates!
 
 ## Connection to My Academic Background and Career Goals
 This independent study complements my existing education in:
