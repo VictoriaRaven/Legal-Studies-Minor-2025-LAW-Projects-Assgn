@@ -1,5 +1,5 @@
 # CDSE | Security Awareness Hub: Government Security, Intelligence & Cybersecurity
-- Select eLearning awareness courses: public, unclassified, government-owned.
+- Select eLearning awareness courses: public, unclassified, government-owned by Center for Development of Security Excellence (CDSE)
 ## Purpose of Independent Unclassified Public Open Source GOV Study
 Although my primary academic background is in Business Law, Legal Studies, and Criminal Justice, I actively pursue additional educational opportunities to broaden my knowledge of subjects outside my formal major and minor.
 My academic background includes a Business Law minor, university-level Legal Studies coursework, community college Criminal Justice studies, and additional coursework involving Law Enforcement and Intelligence.
@@ -19,9 +19,9 @@ By independently studying these subjects, I aim to:
 - Strengthen my interdisciplinary knowledge and technical literacy beyond my formal academic background.
 - **However: I do not take the STEPP as I am a civilian, not a government entity/affiliated for now due to job applications... I will upload the certificate if I complete the online course, if allowed, but not the exam.**
 
-## Defense Counterintelligence and Security Agency (DCSA) GOV Resources
-**Primary Resource:** [DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
-The DCSA Security Awareness Hub provides publicly accessible online awareness courses covering several government security subjects.
+## Center for Development of Security Excellence (CDSE) AND Defense Counterintelligence and Security Agency (DCSA) GOV Resources
+**Primary Resource:** [CDSE Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
+The Security Awareness Hub provides publicly accessible online awareness courses covering several government security subjects.
 The resources I am exploring include:
 - **Counterintelligence:** Threat awareness, counterintelligence reporting, and foreign intelligence awareness.
 - **Cybersecurity:** Cybersecurity awareness and Risk Management Framework (RMF) fundamentals.
@@ -33,7 +33,7 @@ The resources I am exploring include:
 - [Center for Development of Security Excellence (CDSE)](https://www.cdse.edu/)
 
 ### Course Sections I Will Complete:
-These focus on transferable knowledge in counterintelligence, cybersecurity, insider threats, and protecting sensitive information rather than DOD-specific administrative training, as I am a civilian and using this to gain knowledge when applying to public sector jobs and combine past college/univeristy coursers realted to law enforcement, criminal justice, psychology, law, legal studies, it/cybersecuirty, and forensics. In order, based on the courses listed on the main pages and the sections previously... [DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)...
+These focus on transferable knowledge in counterintelligence, cybersecurity, insider threats, and protecting sensitive information rather than DOD-specific administrative training, as I am a civilian and using this to gain knowledge when applying to public sector jobs and combine past college/univeristy coursers realted to law enforcement, criminal justice, psychology, law, legal studies, it/cybersecuirty, and forensics. In order, based on the courses listed on the main pages and the sections previously... [Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)...
 - **NOTICE:** Super Intelligence (SI)/AI/LLM was used to *help me narrow the main courses to the specific agencies/public sectors* I am applying to, so I can combine my studies and new knowledge without repetition and also unnecessary DOD content that is unrelated to me, as I am a civilian applicant. Obviously, Integrity is key, and NO ACADEMIC VIOLATIONS were used to apply SI to "Cheat," and I, Victoria Lee, vow to uphold that promise and ONLY use the resources provided in the course to figure out my mistakes based on my score and to help me pass. SI was used to lay out the main courses and to help me include them in my portfolio GitHub without Breaching GOV ENTITY's copyright and intellectual property.
 
 1. [Counterintelligence Awareness and Reporting for DOD](https://securityawareness.dcsa.mil/cidod/index.html)
