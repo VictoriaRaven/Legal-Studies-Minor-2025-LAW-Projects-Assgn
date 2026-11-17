@@ -1,15 +1,10 @@
 # CDSE | Security Awareness Hub: Government Security, Intelligence & Cybersecurity
-- Select eLearning awareness courses: public, unclassified, government-owned by Center for Development of Security Excellence (CDSE)
+- Select eLearning awareness courses: public, unclassified, government-owned by the Center for Development of Security Excellence (CDSE)
 ## Purpose of Independent Unclassified Public Open Source GOV Study
-Although my primary academic background is in Business Law, Legal Studies, and Criminal Justice, I actively pursue additional educational opportunities to broaden my knowledge of subjects outside my formal major and minor.
-My academic background includes a Business Law minor, university-level Legal Studies coursework, community college Criminal Justice studies, and additional coursework involving Law Enforcement and Intelligence.
-I am using publicly accessible government educational resources, including the **Defense Counterintelligence and Security Agency (DCSA) Security Awareness Hub**, to independently expand my foundational understanding of government security practices, counterintelligence, cybersecurity, information protection, and national security.
-My objective is to supplement my existing education rather than represent these subjects as formal degree specializations or professional qualifications.
+Although my primary academic background is in Computer Science, Business Law, Cyber Operations, Digital Forensics, and Cyber Investigations, I actively pursue publicly accessible government educational resources, including the CDSE-DCSA Security Awareness Hub, to independently expand my foundational understanding of government security practices, counterintelligence, cybersecurity, information protection, and national security.
 
 ## Why I Am Pursuing This Unclassified Public Open Source GOV Study
-As I explore public-sector employment and government-related career opportunities, I recognize the importance of understanding disciplines beyond traditional legal and criminal justice studies.
-Government organizations frequently operate across interconnected areas involving law, regulatory compliance, public safety, intelligence, information security, and national security.
-By independently studying these subjects, I aim to:
+As I explore public-sector employment and government-related career opportunities, I recognize the importance of comprehending how Government organizations operate across interconnected areas involving law, regulatory compliance, public safety, intelligence, information security, and national security.
 - Expand my foundational knowledge of cybersecurity and information security.
 - Become familiar with government security policies, terminology, and responsibilities.
 - Develop a better understanding of counterintelligence and intelligence awareness.
