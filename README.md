@@ -15,10 +15,10 @@ Legal-Studies-Projects-And-Assignments: LGST; BGMT; COMM; Other.
 - While doing Law minor, I did some Legal Studies IRAC Python Application from scratch: [VictoriaRaven's Legal Studies IRAC Python App](https://github.com/VictoriaRaven/Legal-Studies-IRAC-Python-Generator)
 
 ### Independent Study & Professional Development
-In addition to my formal academic coursework, I use publicly accessible educational resources provided by the Defense Counterintelligence and Security Agency (DCSA) to pursue supplemental educational opportunities and broaden my knowledge of other disciplines, including counterintelligence, cybersecurity awareness, information security, national security, and government security practices.
-- **[VictoriaRaven's CDSE-Security-Awareness-Hub Study](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main/CDSE-Security-Awareness-Hub)**
+In addition to my formal academic coursework, I use publicly accessible educational resources provided by the Center for Development of Security Excellence (CDSE) AND the Defense Counterintelligence and Security Agency (DCSA) to pursue supplemental educational opportunities and broaden my knowledge of other disciplines, including counterintelligence, cybersecurity awareness, information security, national security, and government security practices.
+- **[VictoriaRaven's CDSE-DCSA-Security-Awareness-Hub Study](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main/CDSE-Security-Awareness-Hub)**
     – Supplemental independent learning documenting my educational interests, objectives, and DCSA Security Awareness Hub courses.
-- **Primary Educational Resource:** [DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
+- **Primary Educational Resource:** [CDSE-DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
     – This independent study is intended to complement my existing education, demonstrate initiative and continuous learning, and strengthen my interdisciplinary knowledge in preparation for potential public-sector employment opportunities.
 - *Note: This is supplemental independent study and does not represent a formal degree, professional certification, security clearance, or examination-based course completion.*
 
@@ -57,7 +57,7 @@ The collection builds upon my previous community college coursework in Introduct
 - **Finance & Regulatory Law:** Financial institutions, secured transactions, bankruptcy, creditor rights, and regulatory compliance.
 - **Intellectual Property:** Patents, trademarks, copyrights, licensing, ownership rights, and research involving the United States Patent and Trademark Office (USPTO).
 - **Communications & Media Law:** Freedom of speech, press protections, defamation, privacy, intellectual property, and media regulations.
-- **Government Security & Counterintelligence (DCSA – Supplemental Independent Study):** Independent learning through the [DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html), covering counterintelligence awareness, cybersecurity, information security, Insider Threat Awareness, Operations Security (OPSEC), and government security principles. This supplemental study expands my knowledge beyond my formal academic background and supports my interest in public-sector career opportunities.
+- **Government Security & Counterintelligence (CDSE-DCSA – Supplemental Independent Study):** Independent learning through the [CDSE-DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html), covering counterintelligence awareness, cybersecurity, information security, Insider Threat Awareness, Operations Security (OPSEC), and government security principles. This supplemental study expands my knowledge beyond my formal academic background and supports my interest in public-sector career opportunities.
 
 
 ## Court Systems & Jurisdictional Comparisons
@@ -194,7 +194,7 @@ who participated in this project.
 - [UMGC BMGT Resources](https://libguides.umgc.edu/c.php?g=318035&p=2123990)
 - [WestLaw Edge](https://signon.thomsonreuters.com/?productid=CBT&viewproductid=CBTINDIGO&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0323250542440Ufk0Ch3kUO-4Zzly-CUermtp1wNM2QKKIw71eZDoYRzUkRp7ef3XIjClbc6cuKjxIkW7FzpfVzpmqMiPdstNVrOPhnRvLdtY2olRi0T4bZPbaANj-bv8b1n4VyUMfltMTCHLtulV0hI0VVZwLN6Tfwpc4yAL0gA4luq3LVnilDGl1DFfHxjXWrqqVfK4bTmpc8zndBe3FzeIhvzIlXpUClIfqFlCVI81IGSwLZAUUg83xpOD4vdslS_NYUPJJ0A3eeFf7-XQNFlV1n1arAwEqRn5G1EWlpXxggCIenFn12fGyY8VGVCjJpNG5HAVUPja1-Us32o8hRXapWtUP3tfcjILxHA2utJi7y1nXe7pqNcRGcomYEE_gOT9LjOicrGg&bhcp=1)
 - [UMGC Nexis Uni](http://ezproxy.umgc.edu/login?url=http://www.nexisuni.com)
-- [DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
+- [CDSE-DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
  - Thank you!
  - VictoriaRaven
 
