@@ -22,6 +22,16 @@ In addition to my formal academic coursework, I use publicly accessible educatio
     – This independent study is intended to complement my existing education, demonstrate initiative and continuous learning, and strengthen my interdisciplinary knowledge in preparation for potential public-sector employment opportunities.
 - *Note: This is supplemental independent study and does not represent a formal degree, professional certification, security clearance, or examination-based course completion.*
 
+### Other VictoriaRaven GitHub Repositories related to GOVERNMENT TOPICS - Completed and Demonstrated on my GitHub Portfolio:
+- [Stanford-Coursera: The-AI-Awakening: Implications-for-the-Economy-and-Society (Modules 1-3) offered by Coursera within SCSP program](https://github.com/VictoriaRaven/The-AI-Awakening-Implications-for-the-Economy-and-Society-Stanford-Coursera)
+- [SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera: AI and AGI in National Security by Special Competitive Studies Project (SCSP)](https://github.com/VictoriaRaven/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera)
+- [Cryptography-Stanford-Coursera-VictoriaRaven](https://github.com/VictoriaRaven/Cryptography-Stanford-Coursera)
+- [UMGC Technical Writing and PACE](https://github.com/VictoriaRaven/Technical-Writing-Advanced-Projects)
+- [VictoriaRaven's NASA NCAS Experience Community College 2022](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
+- [VictoriaRaven's Legal Studies IRAC Python App](https://github.com/VictoriaRaven/Legal-Studies-IRAC-Python-Generator)
+- [VictoriaRaven's Cybersecurity Google Coursera UMGC](https://github.com/VictoriaRaven/Cybersecurity-Google-Coursera-UMGC)
+- [UMGC's CMIT Class related to COMPTIA NETWORK with VictoriaRaven](https://github.com/VictoriaRaven/Cybersecurity-Google-Coursera-UMGC/tree/main/CMIT-Network-Other)
+
 ### ALL Legal Studies Projects and Assignments
 **Related Coursework:** AND OTHER related subjects.
 - **LGST 200** – Techniques of Legal Research
