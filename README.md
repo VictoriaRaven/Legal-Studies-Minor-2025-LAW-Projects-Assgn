@@ -20,7 +20,7 @@ In addition to my formal academic coursework, I use publicly accessible educatio
     – Supplemental independent learning documenting my educational interests, objectives, and DCSA Security Awareness Hub courses.
     - **Primary Educational Resource:** [CDSE-DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
 - **[VictoriaRaven's CISA Learning - NICCS](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main/CISA%20Learning)**
-    – Supplemental independent learning documenting my educational interests, objectives, and DCSA Security Awareness Hub courses.
+    – Supplemental independent learning documenting my educational interests, objectives, and CISA Learning courses.
     - **Primary Educational Resource:** [CISA Learning - NICCS LOGIN PAGE](https://learning.cisa.gov/login/index.php)
     - **Primary Educational Resource:** [CISA Learning - NICCS](https://niccs.cisa.gov/training/cisa-learning)
 – This independent study is intended to complement my existing education, demonstrate initiative and continuous learning, and strengthen my interdisciplinary knowledge in preparation for potential public-sector employment opportunities.
