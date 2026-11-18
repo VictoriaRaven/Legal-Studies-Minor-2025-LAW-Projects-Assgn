@@ -23,7 +23,7 @@ In addition to my formal academic coursework, I use publicly accessible educatio
     – Supplemental independent learning documenting my educational interests, objectives, and CISA Learning courses.
     - **Primary Educational Resource:** [CISA Learning - NICCS LOGIN PAGE](https://learning.cisa.gov/login/index.php)
     - **Primary Educational Resource:** [CISA Learning - NICCS](https://niccs.cisa.gov/training/cisa-learning)
-– This independent study is intended to complement my existing education, demonstrate initiative and continuous learning, and strengthen my interdisciplinary knowledge in preparation for potential public-sector employment opportunities.
+- This independent study is intended to complement my existing education, demonstrate initiative and continuous learning, and strengthen my interdisciplinary knowledge in preparation for potential public-sector employment opportunities.
 - *Note: This is supplemental independent study and does not represent a formal degree, professional certification, security clearance, or examination-based course completion.*
 
 ### Other VictoriaRaven GitHub Repositories related to GOVERNMENT TOPICS - Completed and Demonstrated on my GitHub Portfolio:
