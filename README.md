@@ -9,17 +9,21 @@ Links:
 
 ## Information
 Legal-Studies-Projects-And-Assignments: LGST; BGMT; COMM; Other.
-- Note: As of 11/05/2026 I needed to save space on Drive(s) so I uploaded main files here and removed the ones that have answer key. If you ask me where it is I do not have it as I deleted it and kept only the ones without key and also use my own words for academic integrity. The concepts remain the same and I have uploaded the ones not repeating concepts.
-- You can also find my Technical writing projects repository here: [UMGC Technical Writing and PACE](https://github.com/VictoriaRaven/Technical-Writing-Advanced-Projects)
+- Note: As of 11/05/2026, I needed to save space on Drive(s) so I uploaded main files here and removed the ones that have an answer key. If you ask me where it is, I don't have it, as I deleted it and kept only the ones without a key; I also used my own words for academic integrity. The concepts remain the same, and I have uploaded the ones that do not repeat concepts.
+- You can also find my Technical Writing projects repository here: [UMGC Technical Writing and PACE](https://github.com/VictoriaRaven/Technical-Writing-Advanced-Projects)
 - You can also find my NASA NCAS related to My Community college and how it also correlates to government. My repo is here: [VictoriaRaven's NASA NCAS Experience Community College 2022](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
-- While doing Law minor, I did some Legal Studies IRAC Python Application from scratch: [VictoriaRaven's Legal Studies IRAC Python App](https://github.com/VictoriaRaven/Legal-Studies-IRAC-Python-Generator)
+- While doing a Law minor, I did some Legal Studies IRAC Python Application from scratch: [VictoriaRaven's Legal Studies IRAC Python App](https://github.com/VictoriaRaven/Legal-Studies-IRAC-Python-Generator)
 
 ### Independent Study & Professional Development
-In addition to my formal academic coursework, I use publicly accessible educational resources provided by the Center for Development of Security Excellence (CDSE) AND the Defense Counterintelligence and Security Agency (DCSA) to pursue supplemental educational opportunities and broaden my knowledge of other disciplines, including counterintelligence, cybersecurity awareness, information security, national security, and government security practices.
+In addition to my formal academic coursework, I use publicly accessible educational resources to pursue supplemental educational opportunities, strengthening specialized knowledge and broadening my knowledge of other disciplines, including counterintelligence, cybersecurity awareness, information security, national security, government security practices, cybersecurity investigations, digital forensics, cyber intelligence, digital asset investigations, insider threat analysis, and reverse engineering.
 - **[VictoriaRaven's CDSE-DCSA-Security-Awareness-Hub Study](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main/CDSE-Security-Awareness-Hub)**
     – Supplemental independent learning documenting my educational interests, objectives, and DCSA Security Awareness Hub courses.
-- **Primary Educational Resource:** [CDSE-DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
-    – This independent study is intended to complement my existing education, demonstrate initiative and continuous learning, and strengthen my interdisciplinary knowledge in preparation for potential public-sector employment opportunities.
+    - **Primary Educational Resource:** [CDSE-DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
+- **[VictoriaRaven's CISA Learning - NICCS](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main/CISA%20Learning)**
+    – Supplemental independent learning documenting my educational interests, objectives, and DCSA Security Awareness Hub courses.
+    - **Primary Educational Resource:** [CISA Learning - NICCS LOGIN PAGE](https://learning.cisa.gov/login/index.php)
+    - **Primary Educational Resource:** [CISA Learning - NICCS](https://niccs.cisa.gov/training/cisa-learning)
+– This independent study is intended to complement my existing education, demonstrate initiative and continuous learning, and strengthen my interdisciplinary knowledge in preparation for potential public-sector employment opportunities.
 - *Note: This is supplemental independent study and does not represent a formal degree, professional certification, security clearance, or examination-based course completion.*
 
 ### Other VictoriaRaven GitHub Repositories related to GOVERNMENT TOPICS - Completed and Demonstrated on my GitHub Portfolio:
