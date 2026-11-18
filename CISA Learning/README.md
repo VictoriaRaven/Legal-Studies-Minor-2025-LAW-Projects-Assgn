@@ -30,9 +30,17 @@ These focus on transferable knowledge in counterintelligence, cybersecurity, ins
 6. Introduction to Cyber Intelligence | NA
 7. Cryptocurrency for Law Enforcement | A
 8. Reverse Engineering – | A
-9. ALT
-- Note: Courses marked with NA are Not Available, and Courses marked A are Available and Completed. ALT means alternative courses to make up for NA courses. **As of 11-18-2026, last checked, for NA, the course is under revision and not currently available.**
-- Note: For some courses, I had to take alternative courses, as they were marked NA. I tried my best to remove repetitive main courses that I have already completed in my B.S., M.S., and certificates.
+9. Cyber Fundamentals for Law Enforcement Investigations | NA
+10. ALT | Basics of Zero Trust for Federal Agencies | A
+11. ALT | Critical Infrastructure Protection  | A
+12. ALT | Cyber Security Investigations | A
+13. ALT | Cyber Threat Intelligence: From Legislation to Regulation (Professors in Practice series) | A
+14. ALT | Cyber Threat Intelligence: Practical Applications and Impact of Information Sharing (Professors in Practice series) | A
+15. ALT | Policy, Barriers, and Modernization (Professors in Practice series) | A
+16. ALT | Zero Trust Architecture: Choosing a Model Based on the Task (Professors in Practice series) | A
+17. ALT | Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series) | A
+- Note: Courses marked with NA are Not Available, and Courses marked A are Available and Completed. ALT means alternative courses to make up for NA courses. **As of 11-18-2026 last checked, for NA, the course is under revision and not currently available.**
+- Note: For some courses, I had to take alternative courses marked ALT and marked A, as they were marked NA in the portal. I tried my best to remove repetitive main courses that I have already completed in my B.S., M.S., and certificates.
 
 
 ## Connection to My Academic Background and Career Goals
