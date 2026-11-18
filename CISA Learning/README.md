@@ -22,15 +22,18 @@ The CISA training portal provides cybersecurity educational resources covering v
 ### Course Sections I Will Complete:
 These focus on transferable knowledge in counterintelligence, cybersecurity, insider threats, and protecting sensitive information rather than DOD-specific administrative training, as I am a civilian and using this to gain knowledge when applying to public sector jobs and combine past college/univeristy coursers realted to law enforcement, criminal justice, psychology, law, legal studies, it/cybersecuirty, and forensics. In order, based on the courses listed on the main pages and the sections previously...[CISA Cybersecurity Training Portal](https://learning.cisa.gov/login/index.php)...
 - **NOTICE:** Super Intelligence (SI)/AI/LLM was used to *help me narrow the main courses to the specific agencies/public sectors* I am applying to, so I can combine my studies and new knowledge without repetition and also unnecessary DOD content that is unrelated to me, as I am a civilian applicant. Obviously, Integrity is key, and NO ACADEMIC VIOLATIONS were used to apply SI to "Cheat," and I, Victoria Lee, vow to uphold that promise and ONLY use the resources provided in the course to figure out my mistakes based on my score and to help me pass. SI was used to lay out the main courses and to help me include them in my portfolio GitHub without Breaching GOV ENTITY's copyright and intellectual property.
-1. Cyber Security Investigations – 9 Hours
-2. Advanced Computer Forensics – 5 Hours
-3. Mobile Forensics – 4 Hours
-4. Introduction to Investigation of Digital Assets – 4 Hours
-5. Insider Threat Analysis – 6 Hours
-6. Introduction to Cyber Intelligence – 2 Hours
-7. Cryptocurrency for Law Enforcement – 2 Hours
-8. Reverse Engineering – 2 Hours
-- Note: I did not take all other courses, as they are related to current government employees; they are repetitive of the main courses that teach it in more detail, and I also chose the courses most relevant to my studies so far with my B.S., M.S., and certificates!
+1. Cyber Security Investigations | A
+2. Advanced Computer Forensics | NA
+3. Mobile Forensics | NA
+4. Introduction to Investigation of Digital Assets | NA
+5. Insider Threat Analysis | NA
+6. Introduction to Cyber Intelligence | NA
+7. Cryptocurrency for Law Enforcement | A
+8. Reverse Engineering – | A
+9. ALT
+- Note: Courses marked with NA are Not Available, and Courses marked A are Available and Completed. ALT means alternative courses to make up for NA courses. **As of 11-18-2026, last checked, for NA, the course is under revision and not currently available.**
+- Note: For some courses, I had to take alternative courses, as they were marked NA. I tried my best to remove repetitive main courses that I have already completed in my B.S., M.S., and certificates.
+
 
 ## Connection to My Academic Background and Career Goals
 This independent study complements my existing education in:
