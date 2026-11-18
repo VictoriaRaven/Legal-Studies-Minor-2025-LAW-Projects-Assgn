@@ -62,12 +62,11 @@ The collection builds upon my previous community college coursework in Introduct
 - **Intellectual Property:** Patents, trademarks, copyrights, licensing, ownership rights, and research involving the United States Patent and Trademark Office (USPTO).
 - **Communications & Media Law:** Freedom of speech, press protections, defamation, privacy, intellectual property, and media regulations.
 - **Government Security & Counterintelligence (CDSE-DCSA – Supplemental Independent Study):** Independent learning through the [CDSE-DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html), covering counterintelligence awareness, cybersecurity, information security, Insider Threat Awareness, Operations Security (OPSEC), and government security principles. This supplemental study expands my knowledge beyond my formal academic background and supports my interest in public-sector career opportunities.
+- **Cybersecurity and Infrastructure Security Agency (CISA – Supplemental Independent Study):** Independent learning through the [CISA Learning - NICCS](https://niccs.cisa.gov/training/cisa-learning) helped me expand specialized knowledge of cybersecurity investigations, digital forensics, cyber intelligence, digital asset investigations, insider threats, and reverse engineering. This supplemental study expands my knowledge beyond my formal academic background and supports my interest in public-sector career opportunities.
 
 
 ## Court Systems & Jurisdictional Comparisons
-
-An important component of this collection is understanding how different courts operate and how legal proceedings vary depending on jurisdiction and subject matter.
-
+A key component of this collection is understanding how different courts operate and how legal proceedings vary by jurisdiction and subject matter.
 Topics include:
 
 - Federal and state court systems.
@@ -199,6 +198,7 @@ who participated in this project.
 - [WestLaw Edge](https://signon.thomsonreuters.com/?productid=CBT&viewproductid=CBTINDIGO&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0323250542440Ufk0Ch3kUO-4Zzly-CUermtp1wNM2QKKIw71eZDoYRzUkRp7ef3XIjClbc6cuKjxIkW7FzpfVzpmqMiPdstNVrOPhnRvLdtY2olRi0T4bZPbaANj-bv8b1n4VyUMfltMTCHLtulV0hI0VVZwLN6Tfwpc4yAL0gA4luq3LVnilDGl1DFfHxjXWrqqVfK4bTmpc8zndBe3FzeIhvzIlXpUClIfqFlCVI81IGSwLZAUUg83xpOD4vdslS_NYUPJJ0A3eeFf7-XQNFlV1n1arAwEqRn5G1EWlpXxggCIenFn12fGyY8VGVCjJpNG5HAVUPja1-Us32o8hRXapWtUP3tfcjILxHA2utJi7y1nXe7pqNcRGcomYEE_gOT9LjOicrGg&bhcp=1)
 - [UMGC Nexis Uni](http://ezproxy.umgc.edu/login?url=http://www.nexisuni.com)
 - [CDSE-DCSA Security Awareness Hub](https://securityawareness.dcsa.mil/index.html)
+- [CISA Learning - NICCS](https://niccs.cisa.gov/training/cisa-learning) 
  - Thank you!
  - VictoriaRaven
 
