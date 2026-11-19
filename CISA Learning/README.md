@@ -29,11 +29,10 @@ These focus on transferable knowledge in counterintelligence, cybersecurity, ins
 5. Insider Threat Analysis | NA
 6. Introduction to Cyber Intelligence | NA
 7. Cryptocurrency for Law Enforcement | A
-8. Reverse Engineering – | A
+8. Reverse Engineering | A
 9. Cyber Fundamentals for Law Enforcement Investigations | NA
 10. ALT | Basics of Zero Trust for Federal Agencies | A
 11. ALT | Critical Infrastructure Protection  | A
-12. ALT | Cyber Security Investigations | A
 13. ALT | Cyber Threat Intelligence: From Legislation to Regulation (Professors in Practice series) | A
 14. ALT | Cyber Threat Intelligence: Practical Applications and Impact of Information Sharing (Professors in Practice series) | A
 15. ALT | Policy, Barriers, and Modernization (Professors in Practice series) | A
